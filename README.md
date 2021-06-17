@@ -33,14 +33,17 @@ And that's it and enjoy the hack Greetings Silver.
 
 # telegram Channel : 
 
+[![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/professional_school)
 
 
-[![30%](https://img.shields.io/badge/channel-telegram-yellow)(https://t.me/professional_school)
+
+
 
 # telegram account
 
-[![30%](https://img.shields.io/badge/account-telegram-yellow)(https://t.me/iiwiw)
 
 
+
+[![30%](https://img.shields.io/badge/account-telegram-yellow)](https://t.me/iiwiw)
 
 
