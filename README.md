@@ -7,7 +7,7 @@ Enjoy and support me 🇮🇶♥️.
 
 # run the tool :
 
-- *First 
+# First 
 
 `pkg install php `
 
@@ -21,11 +21,19 @@ Enjoy and support me 🇮🇶♥️.
 
 `php bot.php`
 
-- *Second
+# Second
 
 Secondly, it will ask you for a token for the Telegram account.
-Create a bot and send the token to the tool Then put my hands on the telegram account
-And go to your account and send the word start in the bot and log in and then put an Instagram account,
-you don't need a new one just to run the tool and that's it and enjoy the hack Greetings Silver.
+Create a bot and send the token to the tool
+Then put my hands on the telegram account
+And go to your account and send the word start in the bot
+And log in and then put an Instagram account,
+you don't need a new one just to run the tool
+And that's it and enjoy the hack Greetings Silver.
+
+# telegram Channel : 
+
+
+# telegram account
 
 
